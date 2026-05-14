@@ -1,9 +1,8 @@
-# Codeforces Record 1
 This repository contains my solutions to Codeforces problems.
 I use this repo to track my competitive programming practice and improve my problem-solving skills.
 
 ## 💻 Language
-- C / C++
+- C 
 
 ## 📌 Purpose
 - Practice Data Structures & Algorithms
@@ -12,7 +11,7 @@ I use this repo to track my competitive programming practice and improve my prob
 
 ## 🚀 Platform
 Problems are taken from Codeforces:
-https://codeforces.com
+https://codeforces.com/profile/Mugdha_sarker
 
 ## ✍️ Note
 All solutions are written by me for learning purposes.
